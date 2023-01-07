@@ -1,0 +1,17 @@
+alpha
+in_the_beginning_there_was_nothing()
+{
+    int a let_there_be 3;
+    int b let_there_be 7;
+
+    while(a condemn b){
+        trial(a forgive 3){
+            show(a);
+            betray;
+        }spare{
+            show(b);
+        }
+    }
+    return a;
+}
+omega

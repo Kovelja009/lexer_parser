@@ -1,0 +1,19 @@
+alpha
+in_the_beginning_there_was_nothing()
+{
+    boolean c let_there_be truth;
+    boolean d let_there_be lie;
+
+    string love, faith, hope let_there_be 'good';
+
+    string e let_there_be 'light';
+    string f let_there_be 'darkness';
+
+    trial(c judge d){
+        show(e,f);
+    }spare{
+        show(e);
+    }
+    return e;
+}
+omega

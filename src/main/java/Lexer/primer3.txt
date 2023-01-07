@@ -1,0 +1,19 @@
+in_the_beginning_there_was_nothing()
+{
+    int a let_there_be 7;
+    int man let_there_be 3;
+
+    while(a bless man){
+        trial(a forgive 3){
+            show(a);
+            show(a, man);
+        }spare{
+            betray;
+        }
+    }
+
+    trial(man judge 'noone'){
+        return man + 'love';
+    }
+}
+omega

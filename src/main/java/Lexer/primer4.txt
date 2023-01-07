@@ -1,0 +1,14 @@
+alpha
+main()
+{
+    int a let_there_be 7;
+    string man let_there_be 'good';
+
+    string pride, greed, wrath, envy, lust, gluttony, sloth let_there_be '7-deadly-sins';
+
+    trial (man judge 'good' and man judge 'evil'){
+        show(man);
+        return a+1;
+    }
+}
+omega
